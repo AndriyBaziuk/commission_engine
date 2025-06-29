@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project calculates daily commissions in a MLM network. Each partner earns a 5% commission on the daily gross profit of all their descendants (direct and indirect). The system is designed for high scale: ≥ 50,000 partners and ≥ 15 levels, completing within 2 seconds.
+This project calculates daily commissions in a MLM network. Each partner earns a 5% commission on the daily gross profit of all their descendants (direct and indirect). The system is designed for high scale: ≥ 50,000 partners and ≥ 15 levels of hierarchy, completing within 2 seconds.
 
 ## Features
 
@@ -21,7 +21,6 @@ This project calculates daily commissions in a MLM network. Each partner earns a
     "name": "Partner1",
     "monthly_revenue": 10000
   },
-  ...
 ]
 ```
 
@@ -31,7 +30,6 @@ This project calculates daily commissions in a MLM network. Each partner earns a
 {
   "1": 2345.67,
   "2": 456.78,
-  ...
 }
 ```
 
